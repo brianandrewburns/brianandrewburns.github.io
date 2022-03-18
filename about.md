@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{site.url}}/images/smiling_headshot.gif" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/smiling_headshot.JPG" style="display: block; margin: auto;" />
 
 **Now**
 
