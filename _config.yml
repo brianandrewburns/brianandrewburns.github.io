@@ -52,6 +52,8 @@ minima:
 #header_pages:
 # - about.md
 
+url: https://brianandrewburns.github.io/
+
 header_pages:
   - about.md
   # writing page? how do I link that?
