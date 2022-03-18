@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://brianandrewburns.github.io/images/smiling_headshot.JPG" style="display: block; margin: auto;" width="100px" height="auto" />
+<img src="https://brianandrewburns.github.io/images/smiling_headshot.JPG" style="display: block; margin: auto;" width="300px" height="auto" />
 
 **Now**
 
