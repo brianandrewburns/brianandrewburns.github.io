@@ -25,5 +25,5 @@ This website is hosted via Github Pages and styled according to the open-source 
 
 **Footnotes**
 
-1. For obvious reasons (e.g. our returns, or Samo's recent rise to internet fame), shutting down may have been a mistake. But slogging along for another two years with an uncertain plan B did not seem like a good idea at the time. I will likely return to some form of capital-compounding-as-a-service in the next few years, either returning to our Caladan thesis and variants of it, or starting a fund applying quant techniques to niche crypto markets. Regardless, I plan to write about Caladan and the theory/thesis behind it on this website at some point.
+[1] For obvious reasons (e.g. our returns, or Samo's recent rise to internet fame), shutting down may have been a mistake. But slogging along for another two years with an uncertain plan B did not seem like a good idea at the time. I will likely return to some form of capital-compounding-as-a-service in the next few years, either returning to our Caladan thesis and variants of it, or starting a fund applying quant techniques to niche crypto markets. Regardless, I plan to write about Caladan and the theory/thesis behind it on this website at some point.
   
