@@ -11,7 +11,7 @@ I'm Brian Burns, a machine learning PhD student at the University of Washington 
 
 I did a bunch of interesting and weird things before getting into ML:
 
-Prior to starting the ML PhD in 2021, I started Caladan Capital, a long-only hedge fund with [Samo Burja](https://twitter.com/SamoBurja), whose investment thesis was an outgrowth and application of some of the ideas from his manuscript Great Founder Theory. We performed excellently (44-70% annualized returns depending on start/end dates), but weren't able to raise enough money to operate the fund sustainably <sup>[1]<\sup>.
+Prior to starting the ML PhD in 2021, I started Caladan Capital, a long-only hedge fund with [Samo Burja](https://twitter.com/SamoBurja), whose investment thesis was an outgrowth and application of some of the ideas from his manuscript Great Founder Theory. We performed excellently (44-70% annualized returns depending on start/end dates), but weren't able to raise enough money to operate the fund sustainably <sup>[1]</sup>.
 
 Prior to Caladan, I worked as a researcher at Leverage Research/Paradigm Academy, a joint early-stage-science research institute and startup incubator run by [Geoff Anders] (https://twitter.com/geoffanders). On the science side I wrote manuscripts which built out and applied Connection Theory, a unified theory of human psychology that Geoff created. On the startup incubator side I assisted [Reserve Protocol](https://twitter.com/reserveprotocol) at their earliest stages of investor outreach, market research, and mathematical details of intial protocol design.
 
