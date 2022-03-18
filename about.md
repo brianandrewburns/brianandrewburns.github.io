@@ -10,6 +10,8 @@ permalink: /about/
 
 I'm Brian Burns, a machine learning PhD student at the University of Washington broadly interested in transfer learning. I'm using this website as a writing outlet - first to clarify and flesh out my own thoughts, second to share them with others. The main purpose of the writing is to figure out what "megaproject" I should work on over the next 5+ years.
 
+I am also on [Twitter](https://twitter.com/brian_a_burns).
+
 **Background**
 
 I did a bunch of interesting and weird things before getting into ML:
