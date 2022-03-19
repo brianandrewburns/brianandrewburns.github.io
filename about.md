@@ -8,9 +8,11 @@ permalink: /about/
 
 **Now**
 
-I'm Brian Burns, a machine learning PhD student at the University of Washington broadly interested in transfer learning. I'm using this website as a writing outlet - first to clarify and flesh out my own thoughts, second to share them with others. The main purpose of the writing is to figure out what "megaproject" I should work on over the next 5+ years.
+I'm Brian Burns, a machine learning PhD student at the University of Washington broadly interested in transfer learning. I'm using this website as a writing outlet - first to clarify and flesh out my own thoughts, second to share them with others. The main purpose of the writing is to figure out what major project I should work on over the next 5+ years.
 
-I am also on [Twitter](https://twitter.com/brian_a_burns).
+I am married to Martine Matejczyk, who works as a freelance industrial designer and runs [Aesthetic Protocol](https://www.aestheticprotocol.com/about), selling seamless, 3D-knit shirts made of baby alpaca fiber.
+
+I'm on [Twitter](https://twitter.com/brian_a_burns) and can email me at [mailto](bburns0@uw.edu).
 
 **Background**
 
