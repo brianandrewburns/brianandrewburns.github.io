@@ -54,7 +54,6 @@ minima:
 
 header_pages:
   - about.md
-  - index.md
   # writing page? how do I link that?
   
 # Build settings
