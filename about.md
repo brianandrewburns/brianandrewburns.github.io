@@ -12,7 +12,7 @@ I'm Brian Burns, a machine learning PhD student at the University of Washington 
 
 I'm married to Martine Matejczyk, who works as a freelance industrial designer and runs [Aesthetic Protocol](https://www.aestheticprotocol.com/about), selling seamless, 3D-knit shirts made of baby alpaca fiber.
 
-I'm on [Twitter](https://twitter.com/brian_a_burns) and can email me at <bburns0@uw.edu>.
+I'm on [Twitter](https://twitter.com/brian_a_burns) and you can email me at <bburns0@uw.edu>.
 
 **Background**
 
