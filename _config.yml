@@ -13,7 +13,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: brian_a_burns
+    # twitter: brian_a_burns
     # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
@@ -57,5 +57,5 @@ header_pages:
 theme: minima
 
 plugins:
- - jekyll-feed
+# - jekyll-feed
  - jekyll-seo-tag
