@@ -24,7 +24,7 @@ Prior to Caladan, I worked as a researcher at Leverage Research/Paradigm Academy
 
 Prior to Leverage/Paradigm, I studied mathematics at the University of Chicago. I ~finished the major as a freshman, studied math, statistics, and ML primarily at the graduate level as a sophomore, and graduated after two years' study.
 
-In high school I was one of the early core team (5-10 people) that built [Direct Action Everywhere](https://en.wikipedia.org/wiki/Direct_Action_Everywhere) from a small meetup group into a grassroots animal rights network with thousands of activists around the world. I ran the network's press working group, mentoring dozens of chapter leaders around the world in the basics of media and PR, and personally got our investigations published in major media outlets such as the NYT, Fox News, CNN, WaPo, etc. 
+In high school I was one of the early core team (5-10 people) that built [Direct Action Everywhere](https://en.wikipedia.org/wiki/Direct_Action_Everywhere) from a small meetup group into a grassroots animal rights network with thousands of activists around the world. I ran the network's press working group, mentoring dozens of chapter leaders around the world in the basics of media and PR, and personally got our investigations published in major media outlets such as the NYT, Fox News, CNN, WaPo, etc. I also studied math and mathematical physics concurrently with high school at UC Berkeley.
 
 **This website**
 
