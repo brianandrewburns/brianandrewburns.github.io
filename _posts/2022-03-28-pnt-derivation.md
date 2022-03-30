@@ -23,6 +23,8 @@ $$\begin{align*}
 \end{align*}$$
 
 i.e.
+
 $$ \omega(n) = (1+o(1)) \frac{1}{\log(n)}$$
+
 as desired.
 
