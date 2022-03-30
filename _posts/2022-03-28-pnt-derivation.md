@@ -4,7 +4,9 @@ title: "A three-line derivation of the prime number theorem"
 categories: math
 ---
 With $\pi(n)$ the number of primes less than $$n$$, the prime number theorem says that as $$n$$ grows large,
+
 $$ \pi(n) = (1 + o(1)) \int_{2} ^n \frac{dt}{\log(t)}  = (1+o(1)) \frac{n}{\log(n)}.$$
+
 In other words, the "probability" that a large number $$n$$ is prime is roughly $$1/\log(n)$$.
 
 Here's a three-line probabilistic argument that doesn't prove the PNT, but is simple, intuitive and would allow you to guess the PNT had you not seen it before:
