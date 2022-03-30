@@ -12,6 +12,7 @@ In other words, the "probability" that a large number $$n$$ is prime is roughly 
 Here's a three-line probabilistic argument that would allow you to guess the PNT had you not seen it before:
 
 Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime, and $$P$$ the set of primes. Since the probability of $$n$$ escaping divisibility by some prime $$p$$ is $$(1-1/p)$$, its chance of being prime is
+
 $$\begin{align*}
   \omega(n) &= \prod_{p < n} (1- 1/p) \\
   \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \chi_{k \in P}. 
