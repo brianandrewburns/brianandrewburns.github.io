@@ -5,7 +5,7 @@ categories: math
 ---
 With $$\pi(n)$$ the number of primes less than $$n$$, the prime number theorem says that as $$n$$ grows large,
 
-$$ \pi(n) = (1 + o(1)) \int_{2} ^n \frac{dt}{\log(t)}  = (1+o(1)) \frac{n}{\log(n)}.$$
+$$ \pi(n) \approx \int_{2} ^n \frac{dt}{\log(t)}  \approx \frac{n}{\log(n)}.$$
 
 In other words, the "probability" that a large number $$n$$ is prime is roughly $$1/\log(n)$$.
 
