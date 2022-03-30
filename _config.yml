@@ -50,6 +50,7 @@ minima:
 # - about.md
 
 header_pages:
+  - index.md
   - about.md
   # writing page? how do I link that?
   
