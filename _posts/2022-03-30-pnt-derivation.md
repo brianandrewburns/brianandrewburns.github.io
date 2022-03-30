@@ -18,7 +18,7 @@ $$\begin{align*}
   \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \unicode{x1D7D9}_{k \in P}. 
 \end{align*}$$
 
-But since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approximate the above sum over prime indices with an expectation over $$\mathbb{P}_\omega$$:
+Since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approximate the above sum over prime indices with an expectation over $$\mathbb{P}_\omega$$:
 
   $$\log \omega(n) = (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx $$
 
