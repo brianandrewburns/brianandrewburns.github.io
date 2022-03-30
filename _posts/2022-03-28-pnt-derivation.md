@@ -28,7 +28,7 @@ $$\begin{align*}
   \implies -1/\omega(n) &= (1+o(1)) \int_{2}^n \log(1-1/x) dx \\
    &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
    &= -(1+o(1))\log(n) \\
-   \implies \omega(n) = (1+o(1)) \frac{1}{\log(n)}
+   \implies \omega(n) &= (1+o(1)) \frac{1}{\log(n)}
 \end{align*}$$
 
 as desired.
