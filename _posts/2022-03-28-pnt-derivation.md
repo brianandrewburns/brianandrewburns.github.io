@@ -15,7 +15,7 @@ Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime, and $
 
 $$\begin{align*}
   \omega(n) &= \prod_{p < n} (1- 1/p) \\
-  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \chi_{k \in P}. 
+  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \unicode{x1D7D9}{k \in P}. 
 \end{align*}$$
 
 But since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approximate the above sum over prime indices with an expectation over $$\mathbb{P}_\omega$$:
