@@ -21,25 +21,9 @@ $$\begin{aligned}
    &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
    &= -(1+o(1))\log(n),
 \end{aligned}$$
+
+
 i.e.
 $$ \omega(n) &= (1+o(1)) \frac{1}{\log(n)}$$
 as desired.
 \end{aligned}$$
-
-But since $$\omega$$ gives the probability that a number is prime, for any sufficiently smooth $$f$$ and any set $E$ consisting of large numbers, we should have
-
-$$\sum_{k \in E} f(x) \chi_{k \in P} \approx \int_E f(x) d\omega.$$
-
-In particular, with $$f(x) = \log(1-1/x)$$ above, we have
-$$\begin{aligned}
-  \log \omega(n) \approx \int_{2}^n \log(1- 1/x) \omega(x) dx \\
-  \implies \omega'(n)/\omega(n)^2 \approx (1+o(1))\log(1- 1/x) \\
-  \implies -1/\omega(n) \approx \int_{2}^n \log(1-1/x) dx \\
-   &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
-   &= -(1+o(1))\log(n),
-\end{aligned}$$
-i.e.
-$$ \omega(n) \approx \frac{1}{\log(n)}$$
-as desired.
-
-$$\mathds{1}$$
