@@ -22,7 +22,7 @@ But since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approxim
 
   $$\log \omega(n) = (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx $$
 
-We can then solve for $$\omega(n)$$:
+We can then take derivatives to solve for $$\omega(n)$$:
 
 $$\begin{align*}
   \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
