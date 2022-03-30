@@ -19,15 +19,15 @@ $$\begin{align*}
 
 But since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approximate the above sum over prime indices with an expectation over $$\mathbb{P}_\omega$$:
 
-  $$\implies \log \omega(n) &= (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx $$
+  $$\log \omega(n) = (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx $$
 
 We can then solve for $$\omega(n)$$:
 
 $$\begin{align*}
-  \implies \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
+  \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
   \implies -1/\omega(n) &= (1+o(1)) \int_{2}^n \log(1-1/x) dx \\
    &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
-   &= -(1+o(1))\log(n)
+   &= -(1+o(1))\log(n) \\
    \implies \omega(n) = (1+o(1)) \frac{1}{\log(n)}
 \end{align*}$$
 
