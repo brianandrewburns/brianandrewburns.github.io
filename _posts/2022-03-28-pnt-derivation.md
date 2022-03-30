@@ -14,9 +14,10 @@ Here's a three-line probabilistic argument that would allow you to guess the PNT
 Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime. Since the probability of $$n$$ escaping divisibility by some prime $$p$$ is $$(1-1/p)$$, the chance that it is prime is given by
 $$\begin{aligned}
   \omega(n) &= \prod_{p < n} (1- 1/p) \\
-  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \mathbb{1}_{\text{$$k$$ is prime}} \\
+  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \Xi_{\text{$$k$$ is prime}} \\
 \end{aligned}$$
 
 But since $$\omega$$ gives the probability that a number is prime, for any sufficiently smooth $f$ and any set $E$ consisting of large numbers, we should have
-$$\sum_{k \in E} f(x)\mathbb{1}_{\text{$$k$$ is prime}} \approx \int_E f(x) d\omega.$$
+$$\sum_{k \in E} f(x)\Xi_{\text{$$k$$ is prime}} \approx \int_E f(x) d\omega.$$
 In particular, with $$f(x) = \log(1-1/x)$$ above, we have
+
