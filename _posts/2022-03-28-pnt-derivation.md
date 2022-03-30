@@ -24,7 +24,7 @@ $$\begin{aligned}
   \log \omega(n) &= (1+o(1))\int_{2}^n \log(1- 1/x) \omega(x) dx \\
   \implies \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
   \implies -1/\omega(n) &= (1+o(1)) \int_{2}^n \log(1-1/x) dx \\
-   &= (1+o(1)) \int_{2}^n (1+o(1)) \int{2}^n (-1/x + O(1/x^2)) dx \\
+   &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
    &= -(1+o(1))\log(n),
 \end{aligned}$$
 i.e.
