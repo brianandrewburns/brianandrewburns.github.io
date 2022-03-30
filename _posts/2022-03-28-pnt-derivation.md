@@ -18,7 +18,7 @@ $$\begin{aligned}
 \end{aligned}$$
 
 But since $$\omega$$ gives the probability that a number is prime, for any sufficiently smooth $f$ and any set $E$ consisting of large numbers, we should have
-$$\sum_{k \in E} f(x)\Xi_{\text{$$k$$ is prime}} = (1+o(1)) \int_E f(x) d\omega.$$
+$$\sum_{k \in E} f(x) = (1+o(1)) \int_E f(x) d\omega.$$
 In particular, with $$f(x) = \log(1-1/x)$$ above, we have
 $$\begin{aligned}
   \log \omega(n) &= (1+o(1))\int_{2}^n \log(1- 1/x) \omega(x) dx \\
