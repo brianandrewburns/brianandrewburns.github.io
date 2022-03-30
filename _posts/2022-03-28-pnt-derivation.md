@@ -19,7 +19,7 @@ $$\begin{align*}
 
 But since $$\omega$$ encodes the probabily of $$n$$ being prime, we can approximate the above sum over prime indices with an expectation over $$\mathbb{P}_\omega$$:
 
-$$\begin{algin*}
+$$\begin{align*}
   \implies \log \omega(n) &= (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx \\
   \implies \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
   \implies -1/\omega(n) &= (1+o(1)) \int_{2}^n \log(1-1/x) dx \\
