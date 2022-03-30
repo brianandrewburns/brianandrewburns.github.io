@@ -18,7 +18,7 @@ I'm on [Twitter](https://twitter.com/brian_a_burns) and you can email me at <bbu
 
 I did a bunch of interesting and weird things before getting into ML:
 
-Prior to starting the ML PhD in 2021, I started Caladan Capital, a long-only hedge fund with [Samo Burja](https://twitter.com/SamoBurja), whose investment thesis was an outgrowth and application of some of the ideas from his manuscript Great Founder Theory. We performed excellently (44-70% annualized returns depending on start/end dates), but weren't able to raise enough money to operate the fund sustainably <sup>[1]</sup>.
+Prior to starting the ML PhD in 2021, I started Caladan Capital, a long-only hedge fund with [Samo Burja](https://twitter.com/SamoBurja), whose investment thesis was an outgrowth and application of some of the ideas from his manuscript Great Founder Theory. We performed excellently (44-70% annualized returns depending on start/end dates), but weren't able to raise enough money to operate the fund sustainably. I will likely return to some form of professional investing in the next few years, either via our Caladan thesis and variants of it, or starting a fund applying HFT/ML techniques to niche crypto markets.
 
 Prior to Caladan, I worked as a researcher at Leverage Research/Paradigm Academy, a joint early-stage-science research institute and startup incubator run by [Geoff Anders](https://twitter.com/geoffanders). On the science side I wrote manuscripts which built out and applied Connection Theory, a unified theory of human psychology that Geoff created. On the startup incubator side I assisted [Reserve Protocol](https://twitter.com/reserveprotocol) at their earliest stages of investor outreach, market research, and mathematical details of intial protocol design.
 
@@ -28,9 +28,4 @@ In high school I was one of the early core team (5-10 people) that built [Direct
 
 **This website**
 
-This website is hosted via Github Pages and styled according to the open-source Jekyll framework. I'd highly recommend the system. You can read more about it [here](http://karpathy.github.io/2014/07/01/switching-to-jekyll/).
-
-**Footnotes**
-
-[1] For obvious reasons (e.g. our returns, or Samo's recent rise to internet fame), shutting down may have been a mistake. But slogging along for another two years with an uncertain plan B did not seem like a good idea at the time. I will likely return to some form of capital-compounding-as-a-service in the next few years, either returning to our Caladan thesis and variants of it, or starting a fund applying HFT/ML techniques to niche crypto markets. Regardless, I plan to write about Caladan and the theory/thesis behind it on this website at some point.
-  
+This website is hosted via Github Pages and styled according to the open-source Jekyll framework. I'd highly recommend the system. You can read more about it [here](http://karpathy.github.io/2014/07/01/switching-to-jekyll/).  
