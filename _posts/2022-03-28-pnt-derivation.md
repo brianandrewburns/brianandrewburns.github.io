@@ -3,7 +3,7 @@ layout: post
 title: "A three-line derivation of the prime number theorem"
 categories: math
 ---
-With $$\pi(n)$$ the number of primes less than $$n$$, the prime number theorem says that as $$n$$ grows large,
+With $$\pi(n)$$ the number of primes less than $$n$$, the [prime number theorem](https://en.wikipedia.org/wiki/Prime_number_theorem) says that as $$n$$ grows large,
 
 $$ \pi(n) \approx \int_{2} ^n \frac{dt}{\log(t)}  \approx \frac{n}{\log(n)}.$$
 
