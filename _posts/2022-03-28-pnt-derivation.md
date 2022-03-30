@@ -11,14 +11,14 @@ In other words, the "probability" that a large number $$n$$ is prime is roughly 
 
 Here's a three-line probabilistic argument that would allow you to guess the PNT had you not seen it before:
 
-Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime, and $P$ the set of primes. Since the probability of $$n$$ escaping divisibility by some prime $$p$$ is $$(1-1/p)$$, the chance that it is prime is given by
+Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime, and $$P$$ the set of primes. Since the probability of $$n$$ escaping divisibility by some prime $$p$$ is $$(1-1/p)$$, the chance that it is prime is given by
 $$\begin{aligned}
   \omega(n) &= \prod_{p < n} (1- 1/p) \\
-  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \Xi_{k \in P} 
+  \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \Chi_{k \in P} 
 \end{aligned}$$
 
 But since $$\omega$$ gives the probability that a number is prime, for any sufficiently smooth $f$ and any set $E$ consisting of large numbers, we should have
-$$\sum_{k \in E} f(x) \Xi_{k \in P} = (1+o(1)) \int_E f(x) d\omega.$$
+$$\sum_{k \in E} f(x) \Chi_{k \in P} = (1+o(1)) \int_E f(x) d\omega.$$
 In particular, with $$f(x) = \log(1-1/x)$$ above, we have
 $$\begin{aligned}
   \log \omega(n) &= (1+o(1))\int_{2}^n \log(1- 1/x) \omega(x) dx \\
