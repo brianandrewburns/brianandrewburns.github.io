@@ -15,14 +15,14 @@ Let $$\omega(n)$$ be the "probability" that a large number $$n$$ is prime, and $
 $$\begin{aligned}
   \omega(n) &= \prod_{p < n} (1- 1/p) \\
   \implies \log \omega(n) &= \sum_{k=2}^n \log(1-1/k) \chi_{k \in P} \\
-  &\approx \int_{2}^n \log(1- 1/x) \omega(x) dx \\
-  \implies \omega'(n)/\omega(n)^2 \approx (1+o(1))\log(1- 1/x) \\
-  \implies -1/\omega(n) \approx \int_{2}^n \log(1-1/x) dx \\
+  &= (1+o(1)) \int_{2}^n \log(1- 1/x) \omega(x) dx \\
+  \implies \omega'(n)/\omega(n)^2 &= (1+o(1))\log(1- 1/x) \\
+  \implies -1/\omega(n) &= (1+o(1)) \int_{2}^n \log(1-1/x) dx \\
    &= (1+o(1)) \int_{2}^n (-1/x + O(1/x^2)) dx \\
    &= -(1+o(1))\log(n),
 \end{aligned}$$
 i.e.
-$$ \omega(n) \approx \frac{1}{\log(n)}$$
+$$ \omega(n) &= (1+o(1)) \frac{1}{\log(n)}$$
 as desired.
 \end{aligned}$$
 
